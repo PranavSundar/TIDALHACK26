@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Live Dictate",
+  "description": "A high-performance real-time transcription tool with voice activity detection (VAD) and automatic stop on silence, powered by Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
