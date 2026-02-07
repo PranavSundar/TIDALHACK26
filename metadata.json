@@ -1,0 +1,8 @@
+{
+  "name": "Spatial Agent Web",
+  "description": "A web-based accessibility agent that analyzes screen captures using Gemini to identify UI elements and coordinates.",
+  "requestFramePermissions": [
+    "display-capture",
+    "microphone"
+  ]
+}
